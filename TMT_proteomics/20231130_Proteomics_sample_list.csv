@@ -1,0 +1,17 @@
+Sample ID,Treatment,Injection,Injection date,harvest date,Pole test latency (sec),Cage test latency (s)
+P1,normoxia,monomer,8/19/2023,11/30/2023,4.2,92.53333
+P2,normoxia,monomer,8/19/2023,11/30/2023,5.833333,50.43333
+P3,normoxia,monomer,8/20/2023,11/30/2023,6.966667,55.16667
+P4,normoxia,monomer,8/20/2023,11/30/2023,7.3,62.3
+P5,normoxia,PFF,8/19/2023,11/29/2023,8.933333,89.43333
+P6,normoxia,PFF,8/19/2023,11/29/2023,8.966667,52.8
+P7,normoxia,PFF,8/20/2023,11/29/2023,10.23333,55.4
+P8,normoxia,PFF,8/20/2023,11/29/2023,8.8,66.7
+P9,hypoxia,monomer,8/19/2023,11/30/2023,6.033333,85.43333
+P10,hypoxia,monomer,8/19/2023,11/30/2023,5.266667,82.6
+P11,hypoxia,monomer,8/20/2023,11/30/2023,7.933333,45.63333
+P12,hypoxia,monomer,8/20/2023,11/30/2023,5.333333,69.2
+P13,hypoxia,PFF,8/19/2023,11/29/2023,5.5,60.56667
+P14,hypoxia,PFF,8/19/2023,11/29/2023,6.066667,64.06667
+P15,hypoxia,PFF,8/20/2023,11/29/2023,7.2,52.96667
+P16,hypoxia,PFF,8/20/2023,11/29/2023,6.766667,82.16667
